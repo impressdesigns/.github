@@ -7,3 +7,5 @@ allow-licenses:
   - ISC
   - (Apache-2.0 OR MIT) AND BSD-3-Clause
   - (MIT OR Apache-2.0) AND Unicode-DFS-2016
+  - BSD-2-Clause AND BSD-3-Clause
+  - Python-2.0.1
