@@ -9,3 +9,4 @@ allow-licenses:
   - (MIT OR Apache-2.0) AND Unicode-DFS-2016
   - BSD-2-Clause AND BSD-3-Clause
   - Python-2.0.1
+  - LGPL-3.0
