@@ -11,3 +11,5 @@ allow-licenses:
   - Python-2.0.1
   - LGPL-3.0
   - CAL-1.0
+  - Apache-2.0 AND LGPL-3.0-or-later AND MIT
+  - Apache-2.0 AND LGPL-3.0-or-later
