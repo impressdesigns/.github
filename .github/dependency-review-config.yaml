@@ -19,3 +19,5 @@ allow-licenses:
   - GPL-2.0-only AND GPL-3.0-or-later AND LGPL-2.1-only AND MPL-1.1	 # pyphen
   - GPL-3.0 AND GPL-3.0-only AND GPL-3.0-or-later AND LGPL-3.0-only	 # pyxlsb
   - HPND  # Pillow
+  - MPL-2.0
+  - 0BSD
