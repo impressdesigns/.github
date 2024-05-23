@@ -21,3 +21,4 @@ allow-licenses:
   - HPND  # Pillow
   - MPL-2.0
   - 0BSD
+  - BSD-2-Clause AND MIT
