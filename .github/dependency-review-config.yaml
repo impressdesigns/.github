@@ -23,3 +23,5 @@ allow-licenses:
   - 0BSD
   - BSD-2-Clause AND MIT
   - Apache-2.0 AND BSD-3-Clause AND MIT AND OFL-1.1	 # fonttools, MIT declared in setup.py
+  - CC-BY-4.0	
+  - BlueOak-1.0.0	
