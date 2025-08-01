@@ -14,3 +14,4 @@ allow_licenses:
   - 0BSD
   - CC-BY-4.0
   - BlueOak-1.0.0
+  - PSF-2.0
