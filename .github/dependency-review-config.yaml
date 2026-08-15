@@ -15,3 +15,5 @@ allow_licenses:
   - CC-BY-4.0
   - BlueOak-1.0.0
   - PSF-2.0
+allow-dependencies-licenses:
+  - pkg:pypi/typing-extensions
