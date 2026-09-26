@@ -17,3 +17,4 @@ allow_licenses:
   - PSF-2.0
 allow-dependencies-licenses:
   - pkg:pypi/typing-extensions
+  - pkg:pypi/pillow
