@@ -18,3 +18,4 @@ allow_licenses:
 allow-dependencies-licenses:
   - pkg:pypi/typing-extensions
   - pkg:pypi/pillow
+  - pkg:npm/sentry
